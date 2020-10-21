@@ -1,0 +1,5 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+.tiktok.com	TRUE	/	FALSE	1999999999	tt_webid	6886194956546737670
+.tiktok.com	TRUE	/	FALSE	1999999999	tt_webid_v2	6886194956546737670
+
